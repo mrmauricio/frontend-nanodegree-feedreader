@@ -12,11 +12,11 @@ All tests are in `jasmine/spec/feedreader.js`.
 
 ## Tests
 
-1. **RSS Feeds**
-* the allFeeds object and its properties should be defined and not empty;
-2. **The menu**
-* the menu should be hidden by default, changing visibility when its icon is clicked
-3. **Initial Entries**
-* ensures that when the loadFeed function is executed there is at least a single .entry element within the .feed container
-4. **New Feed Selection**
-* the content actually changes when a new feed is loaded by the loadFeed
+* **RSS Feeds**
+  * the allFeeds object and its properties should be defined and not empty;
+* **The menu**
+  * the menu should be hidden by default, changing visibility when its icon is clicked
+* **Initial Entries**
+  * ensures that when the loadFeed function is executed there is at least a single .entry element within the .feed container
+* **New Feed Selection**
+  * the content actually changes when a new feed is loaded by the loadFeed
