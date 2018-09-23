@@ -10,7 +10,7 @@ To run the project, you can download or clone this repo and then open the `index
 All tests are in `jasmine/spec/feedreader.js`.
 
 
-### Tests
+## Tests
 
 1. **RSS Feeds**
 * the allFeeds object and its properties should be defined and not empty;
